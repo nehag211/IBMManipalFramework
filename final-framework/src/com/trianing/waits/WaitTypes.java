@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
       	any type on either present, visibility etc 
    		and participants can have more of these explicitWait depending on requirement 
 	@since 16-Dec-2018 
- */
+ */Test
 public class WaitTypes {
 	private WebDriver driver;
 	
